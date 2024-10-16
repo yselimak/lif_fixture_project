@@ -1,0 +1,4 @@
+color1: 034aa6 - koyu mavi
+color2: 021f59 - lacivert
+color3: d95e32 - turuncu
+color4: 1c0a08 - siyah

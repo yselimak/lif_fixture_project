@@ -1,0 +1,8 @@
+nav: Montserrat - medium
+"The Heat Is Now!": gobold uplow regular
+banner text: Montserrat regular 
+countdown - numbers: gobold uplow regular
+countdown - text: Montserrat semibold
+
+lig fixture detail texts: 
+bigNoodleTitling - regular  
